@@ -1,5 +1,0 @@
-version: 2
-pull_request_templates:
-  - feature.md
-  - bugfix.md
-  - refactor.md
